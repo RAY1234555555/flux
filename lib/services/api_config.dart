@@ -17,7 +17,7 @@ class ApiConfig {
       return await _remoteConfig.getActiveDomain();
     } catch (e) {
       // 远程配置获取失败，返回默认域名
-      return 'https://vip8888.dpdns.org/api/v1';
+      return 'https://hh.kunmm.cc.cd/api/v1';
     }
   }
 
