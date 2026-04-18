@@ -3,7 +3,7 @@
     "domains": [
         "https://hh.kunmm.cc.cd"
     ],
-    "backup_subscription": "https://ii.kunmm.cc.cd/s/1e65f76aa702dfb93d5f825dba63bcf7",
+    "backup_subscription": null,
     "announcement": {
         "enabled": false,
         "title": "公告",
