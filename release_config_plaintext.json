@@ -1,0 +1,64 @@
+{
+    "config_version": 1,
+    "domains": [
+        "https://hh.kunmm.cc.cd"
+    ],
+    "backup_subscription": "https://ii.kunmm.cc.cd/s/1e65f76aa702dfb93d5f825dba63bcf7",
+    "announcement": {
+        "enabled": false,
+        "title": "公告",
+        "content": "欢迎使用厨神来了",
+        "type": "info"
+    },
+    "maintenance": {
+        "enabled": false,
+        "message": "系统维护中，请稍候..."
+    },
+    "update": {
+        "min_version": "1.0.0",
+        "changelog": "厨神来了客户端更新",
+        "latest": {
+            "android": {
+                "version": "1.0.0",
+                "url": "https://hh.kunmm.cc.cd/app-release.apk",
+                "force": false
+            },
+            "windows": {
+                "version": "1.0.0",
+                "url": "https://hh.kunmm.cc.cd/flux.exe",
+                "force": false
+            },
+            "linux": {
+                "version": "1.0.0",
+                "url": "https://hh.kunmm.cc.cd/linux.tar.gz",
+                "force": false
+            },
+            "macos": {
+                "version": "1.0.0",
+                "url": "https://hh.kunmm.cc.cd/macos.zip",
+                "force": false
+            },
+            "ios": {
+                "version": "1.0.0",
+                "url": "https://apps.apple.com/",
+                "force": false
+            }
+        }
+    },
+    "routing_rules": {
+        "version": 1,
+        "url": "https://hh.kunmm.cc.cd/routing_rules.json"
+    },
+    "contact": {
+        "telegram": "",
+        "email": "",
+        "website": "https://hh.kunmm.cc.cd",
+        "crisp_website_id": ""
+    },
+    "features": {
+        "invite_enabled": true,
+        "purchase_enabled": true,
+        "ssr_enabled": false
+    },
+    "recommended_nodes": []
+}
